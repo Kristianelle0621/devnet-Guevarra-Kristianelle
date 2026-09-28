@@ -8,7 +8,8 @@ WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
 [write your own explanation here]
-
+variables are containers that hold values.
+you can call out these variables to show their values.
 
 ============================================
 KEY VOCABULARY
