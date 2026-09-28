@@ -31,8 +31,9 @@ came up with yourself — not copied from class.
 """
 
 # --- your code example goes here ---
-
-
+name = "Kristianelle"
+age = 20
+print(f"My name is {name} I am {age} years old.")
 """
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
