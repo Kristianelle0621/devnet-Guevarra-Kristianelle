@@ -7,7 +7,10 @@ Date: 9/28/2026
 WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
-[write your own explanation here]
+Condition blocks run after checking if it is true or false.
+Basically it checks if statements from top to down
+so the first if statement will be the first condition to be checked
+then elif, then else if none is true.
 
 
 ============================================
