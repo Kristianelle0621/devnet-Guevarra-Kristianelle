@@ -16,10 +16,11 @@ then elif, then else if none is true.
 ============================================
 KEY VOCABULARY
 ============================================
-- condition:
-- if / elif / else:
-- comparison operator:
-- boolean expression:
+- condition: it checks if the condition runs true or false
+- if / elif / else: if is the first condition, elif is the next coming conditions
+and else is the final condition if none is true from if and elif.
+- comparison operator: symbol that is used to compare 2 values. 
+- boolean expression: True or False
 (add more as needed)
 
 
