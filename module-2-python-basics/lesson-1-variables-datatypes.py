@@ -1,7 +1,7 @@
 """
 Module 2 — Lesson 1: Variables & Data Types
-Student: [your name]
-Date: [date]
+Student: Guevarra, Kristianelle P.
+Date: 9/28/2026
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
@@ -13,12 +13,12 @@ teaching a friend who's never coded before)
 ============================================
 KEY VOCABULARY
 ============================================
-- variable:
-- data type:
-- int:
-- float:
-- string:
-- boolean:
+- variable: container to hold value
+- data type: different types of value
+- int: whole numbers
+- float: numbers with a decimal point
+- string: text
+- boolean: True or False
 (add more as needed)
 
 
