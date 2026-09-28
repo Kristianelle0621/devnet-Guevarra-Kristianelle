@@ -1,22 +1,26 @@
 """
 Module 2 — Lesson 2: Control Flow (if / elif / else)
-Student: [your name]
-Date: [date]
+Student: Guevarra, Kristianelle P.
+Date: 9/28/2026
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
-[write your own explanation here]
+Condition blocks run after checking if it is true or false.
+Basically it checks if statements from top to down
+so the first if statement will be the first condition to be checked
+then elif, then else if none is true.
 
 
 ============================================
 KEY VOCABULARY
 ============================================
-- condition:
-- if / elif / else:
-- comparison operator:
-- boolean expression:
+- condition: it checks if the condition runs true or false
+- if / elif / else: if is the first condition, elif is the next coming conditions
+and else is the final condition if none is true from if and elif.
+- comparison operator: symbol that is used to compare 2 values. 
+- boolean expression: True or False
 (add more as needed)
 
 
@@ -28,7 +32,14 @@ came up with yourself — not copied from class.
 """
 
 # --- your code example goes here ---
-
+age = 20
+name = "Kristianelle"
+if age > 18:
+    print(f"{name} is currently above 18, he can already vote")
+elif age == 18:
+    print(f"{name} is currently 18 he can vote!")
+else:
+    print(f"{name} cannot vote because he is a minor")
 
 """
 ============================================
@@ -36,7 +47,7 @@ A MISTAKE I MADE (or one I want to avoid)
 ============================================
 [what's something confusing or easy to get wrong
 about this topic?]
-
+A mistake that I would avoid is wrong indentations for  my block of code.
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
