@@ -40,7 +40,7 @@ A MISTAKE I MADE (or one I want to avoid)
 ============================================
 [what's something confusing or easy to get wrong
 about this topic?]
-
+Something that is easy to make a mistake for this code is using wrong data types.
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
