@@ -32,7 +32,14 @@ came up with yourself — not copied from class.
 """
 
 # --- your code example goes here ---
-
+age = 20
+name = "Kristianelle"
+if age > 18:
+    print(f"{name} is currently above 18, he can already vote")
+elif age == 18:
+    print(f"{name} is currently 18 he can vote!")
+else:
+    print(f"{name} cannot vote because he is a minor")
 
 """
 ============================================
