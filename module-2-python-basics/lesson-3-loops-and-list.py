@@ -1,14 +1,14 @@
 """
 Module 2 — Lesson 3: Loops & Lists
-Student: [your name]
-Date: [date]
+Student: Guevarra, Kristianelle P.
+Date: 09/29/2026
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
 [write your own explanation here]
-
+a list is like a folder and the values are the files itsels inside the folder 
 
 ============================================
 KEY VOCABULARY
