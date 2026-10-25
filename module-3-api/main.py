@@ -37,7 +37,7 @@ def play():
         
 def main():
     while True:
-        choice = input("\nDo you wanna play? [1/2]: ")
+        choice = input("\nPlay the game? [1/2]: ")
         if choice == "1":
             play()    
         elif choice == "2":
